@@ -1,5 +1,8 @@
 _repo: Apostol-a-Hodsagon-Regeny_62058
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62058-h/images/cover.jpg
 creator:
   author:
     agent_name: Nagy, Endre
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51742
     wikipedia: https://hu.wikipedia.org/wiki/Nagy_Endre_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62058#Apostol-a-Hodsagon-Regeny
 gutenberg_issued: '2020-05-08'
 gutenberg_type: Text
 identifiers:
